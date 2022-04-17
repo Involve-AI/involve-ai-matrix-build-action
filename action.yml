@@ -1,6 +1,6 @@
-name: 'community-product-matrix-build-action'
-description: 'Action to help run client deployments in parallel'
-author: 'Austin Dimmer - Involvesoft'
+name: 'involve-ai-matrix-build-action'
+description: 'Action to help run cdk deployments in parallel'
+author: 'Austin Dimmer - Involve AI'
 inputs:
   templateMatchPattern:
     required: true
